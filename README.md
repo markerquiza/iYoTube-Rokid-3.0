@@ -1,6 +1,6 @@
 # IyoTube 0.3.0 for Rokid AI Glasses
 
-[Download IyoTube 0.3.0 APK](https://github.com/markerquiza/iYoTube-Rokid-3.0/releases/download/v0.3.0/IyoTube-0.3.0-debug.apk)
+[Download IyoTube 0.3.0 APK](https://github.com/markerquiza/iYoTube-Rokid-3.0/raw/refs/heads/main/IyoTube-0.3.0-debug.apk)
 
 1. Save the APK to Files on your iPhone.
 2. With your green-display Rokid AI Glasses connected, open **Hi Rokid → Home → Toolbox → Glasses app management**.
